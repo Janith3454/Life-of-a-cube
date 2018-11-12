@@ -1,0 +1,2 @@
+C:\Users\sadee\Documents\Unity Projects\Basic Game\Basic Game#\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\sadee\Documents\Unity Projects\Basic Game\Basic Game#\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
